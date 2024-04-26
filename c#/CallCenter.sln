@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AgentsService", "AgentsService\AgentsService.csproj", "{905B2176-98D6-474D-951E-99CBF10074ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DTO", "DTO\DTO.csproj", "{DD8B57CB-2F63-4CBB-9F23-DA5E96B5E32B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{905B2176-98D6-474D-951E-99CBF10074ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{905B2176-98D6-474D-951E-99CBF10074ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{905B2176-98D6-474D-951E-99CBF10074ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{905B2176-98D6-474D-951E-99CBF10074ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD8B57CB-2F63-4CBB-9F23-DA5E96B5E32B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD8B57CB-2F63-4CBB-9F23-DA5E96B5E32B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD8B57CB-2F63-4CBB-9F23-DA5E96B5E32B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD8B57CB-2F63-4CBB-9F23-DA5E96B5E32B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB20CC42-B40A-42AE-9ED4-B5DDFB776AF7}
+	EndGlobalSection
+EndGlobal
